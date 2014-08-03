@@ -1,0 +1,6 @@
+c:\users\vinicius\documents\visual studio 2012\Projects\ProblemaCollatz\ProblemaCollatz\bin\Debug\ProblemaCollatz.exe.config
+c:\Users\Vinicius\Documents\Visual Studio 2012\Projects\ProblemaCollatz\ProblemaCollatz\bin\Debug\ProblemaCollatz.exe
+c:\Users\Vinicius\Documents\Visual Studio 2012\Projects\ProblemaCollatz\ProblemaCollatz\bin\Debug\ProblemaCollatz.pdb
+c:\Users\Vinicius\Documents\Visual Studio 2012\Projects\ProblemaCollatz\ProblemaCollatz\obj\Debug\ProblemaCollatz.csprojResolveAssemblyReference.cache
+c:\Users\Vinicius\Documents\Visual Studio 2012\Projects\ProblemaCollatz\ProblemaCollatz\obj\Debug\ProblemaCollatz.exe
+c:\Users\Vinicius\Documents\Visual Studio 2012\Projects\ProblemaCollatz\ProblemaCollatz\obj\Debug\ProblemaCollatz.pdb
